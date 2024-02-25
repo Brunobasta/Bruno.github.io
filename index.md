@@ -1,1 +1,2 @@
-Hello to my new 2024 Tettnang Hexo Test Page...
+index.md
+*Text mit Asterix*
